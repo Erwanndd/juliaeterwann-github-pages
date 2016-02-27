@@ -1196,7 +1196,7 @@ Resume Timeline
     left: 0;
     background-color: #191975;
     color: #fff;
-    height: 45px;
+    height: 55px;
     width: 100%;
     text-align: center;
 }
@@ -1215,7 +1215,7 @@ Resume Timeline
 }
 .portfolio-info h3 {
     font-size: 14px;
-    line-height: 45px;
+    line-height: 30px;
     font-weight: 700;
     margin: 0;
 }
