@@ -651,6 +651,7 @@ Resume Timeline
 .resume-title h3{
     text-align: center;
 }
+
 .resume-section > div > div{
     margin-bottom: 60px;
 }
@@ -1063,6 +1064,18 @@ Resume Timeline
 .works-section {
     background-color: #f7f7f7;
 }
+
+.works-section h4{
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.works-section h5{
+    text-align: center;
+    margin-bottom: 45px;
+}
+
 .portfolio-item {
     padding-right: 5px;
     padding-left: 5px;
