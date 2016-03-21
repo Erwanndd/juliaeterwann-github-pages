@@ -835,7 +835,7 @@ Resume Timeline
 .timeline-content{
     position: relative;
     padding: 24px;
-    background-color: #fff;
+    background-color: #f7f7f7;
     -webkit-transition:all 400ms;
     -moz-transition:all 400ms;
     -o-transition:all 400ms;
@@ -902,7 +902,7 @@ Resume Timeline
 .timeline>li .timeline-panel::after {
     left: 100%;
     margin-left: -2px;
-    border-left: 12px solid #FFFFFF;
+    border-left: 12px solid #f7f7f7;
     -webkit-transition:all 400ms;
     -moz-transition:all 400ms;
     -o-transition:all 400ms;
@@ -915,7 +915,7 @@ Resume Timeline
 .timeline>li.timeline-inverted .timeline-panel::after {
     right: 100%;
     margin-right:-2px;
-    border-right: 12px solid #FFFFFF;
+    border-right: 12px solid #f7f7f7;
     -webkit-transition:all 400ms;
     -moz-transition:all 400ms;
     -o-transition:all 400ms;
